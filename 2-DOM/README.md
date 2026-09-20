@@ -1,6 +1,6 @@
 # Pasa el mensaje
 
-Implementa un paso de mensajes del _input_ a otro elemento HTML. Implementa tu solución en el fichero js/app.js.
+Implementa un paso de mensajes del _input_ a otro elemento HTML. Implementa tu solución en el fichero app.js.
 
 ## Funcionalidades deseadas
 
